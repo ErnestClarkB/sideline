@@ -608,7 +608,21 @@ ul.tags li a:hover {
 
 }
 
+.submit_btn{
+	color: #f8f4f4;
+	text-align: center;
+	width: fit-content;
+}
 
+.footer_1{
+	width: 100%;
+	color: #00ab6b;
+}
+
+.span-foot{
+	color: #ffffff;
+	font-family:sans-serif ;
+}
 
 /* JOBS HTML */
 
